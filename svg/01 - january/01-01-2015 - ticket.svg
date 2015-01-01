@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>01-01-2015 - ticket</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="01-01-2015---ticket" sketch:type="MSArtboardGroup" stroke="#4C4C4C">
+            <g id="ticket" sketch:type="MSLayerGroup" transform="translate(127.353553, 128.353553) scale(-1, -1) rotate(45.000000) translate(-127.353553, -128.353553) translate(6.853553, 67.353553)">
+                <path d="M176.583956,1 L235.007505,1 C238.317069,1 241,3.6888701 241,6.99187487 L241,34.8385153 C230.474519,38.8642045 223,49.0592185 223,61 C223,72.9407815 230.474519,83.1357955 241,87.1614847 L241,87.1614847 L241,115.008125 C241,118.317346 238.304687,121 235.007505,121 L176.583956,121 L176.583956,121 C176.851552,120.387538 177,119.711105 177,119 C177,116.238576 174.761424,114 172,114 C169.238576,114 167,116.238576 167,119 C167,119.711105 167.148448,120.387538 167.416044,121 L6.99249477,121 C3.68293129,121 1,118.31113 1,115.008125 L1,87.1614847 L1,87.1614847 C11.5254809,83.1357955 19,72.9407815 19,61 C19,49.0592185 11.5254809,38.8642045 1,34.8385153 L1,6.99187487 C1,3.68265376 3.6953125,1 6.99249477,1 L167.416044,1 C167.148448,1.61246235 167,2.28889529 167,3 C167,5.76142375 169.238576,8 172,8 C174.761424,8 177,5.76142375 177,3 C177,2.28889529 176.851552,1.61246235 176.583956,1 Z" id="Rectangle-1" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-9" stroke-width="2" sketch:type="MSShapeGroup" cx="172" cy="101" r="4"></circle>
+                <circle id="Oval-8" stroke-width="2" sketch:type="MSShapeGroup" cx="172" cy="69" r="4"></circle>
+                <circle id="Oval-12" stroke-width="2" sketch:type="MSShapeGroup" cx="172" cy="37" r="4"></circle>
+                <circle id="Oval-11" stroke-width="2" sketch:type="MSShapeGroup" cx="172" cy="85" r="4"></circle>
+                <circle id="Oval-7" stroke-width="2" sketch:type="MSShapeGroup" cx="172" cy="53" r="4"></circle>
+                <circle id="Oval-6" stroke-width="2" sketch:type="MSShapeGroup" cx="172" cy="21" r="4"></circle>
+                <rect id="Rectangle-2" stroke-width="2" sketch:type="MSShapeGroup" x="31" y="21" width="120" height="80" rx="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
