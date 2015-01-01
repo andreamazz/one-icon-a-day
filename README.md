@@ -1,6 +1,6 @@
 #One icon a day
 I'll be designing an icon a day, from January 1 2015 to December 31 2015. 
-The icons will be provided designed with [Sketch](http://bohemiancoding.com/sketch/) and provided as SVG and PNG files alongside the Sketch source.
+The icons will be designed with [Sketch](http://bohemiancoding.com/sketch/) and provided as SVG and PNG files alongside the Sketch source.
 
 #LICENSE
     Creative Commons Attribution 4.0 International 
