@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>03-01-2015 - hamburger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-01-2015---hamburger" sketch:type="MSArtboardGroup" stroke="#4C4C4C">
+            <g id="hamburger" sketch:type="MSLayerGroup" transform="translate(18.000000, 35.000000)">
+                <path d="M110.504841,0.993739589 C106.171218,0.962125872 71.2045454,1.3443569 36.237875,21 C-1.12035732,42 -3.28380219,65.5 4.93773202,65.5 L110.504841,65.5 L216.07195,65.5 C224.293484,65.5 222.130039,42 184.771807,21 C149.805137,1.3443569 114.838464,0.962125872 110.504841,0.993739589 Z" id="Oval-14" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-8" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="106" width="220" height="16" rx="8"></rect>
+                <rect id="Rectangle-9" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="160" width="220" height="27" rx="8"></rect>
+                <rect id="beef-2" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="72" width="220" height="30" rx="20"></rect>
+                <path d="M82.226518,82.854206 C76.694953,86.9072855 69.0039068,91 60.5,91 C43.6553151,91 30,74.9416747 30,74.9416747 L71.1093911,74.9416747 C70.3898401,74.2144166 70,73.7591723 70,73.7591723 L113,73.7591723 C113,73.7591723 103.374122,85 91.5,85 C88.1792045,85 85.0342518,84.1208165 82.226518,82.854206 L82.226518,82.854206 Z M168.5,85 C178.717268,85 187,73.7591723 187,73.7591723 L150,73.7591723 C150,73.7591723 158.282732,85 168.5,85 Z" id="Oval-16" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                <g id="beef-+-cheese" transform="translate(0.000000, 106.000000)" sketch:type="MSShapeGroup">
+                    <rect id="beef" stroke-width="4" x="0" y="20" width="220" height="30" rx="20"></rect>
+                    <g id="cheese" transform="translate(21.000000, 0.000000)" stroke-width="2">
+                        <path d="M2.20644243,10.6002007 L60.9450823,33.3997993 L2.20644243,33.3997993 L2.20644243,10.6002007 Z" id="Rectangle-10" transform="translate(31.575762, 22.000000) rotate(-21.000000) translate(-31.575762, -22.000000) "></path>
+                        <path d="M119.206442,10.6002007 L177.945082,33.3997993 L121.473357,24.4501009 L119.206442,10.6002007 Z" id="Rectangle-12" transform="translate(148.575762, 22.000000) scale(-1, 1) rotate(-21.000000) translate(-148.575762, -22.000000) "></path>
+                        <path d="M59.6306801,10.5133765 L118.36932,33.3129751 L80.8614311,35.9273913 L59.6306801,10.5133765 Z" id="Rectangle-11" transform="translate(89.000000, 23.220384) rotate(-21.000000) translate(-89.000000, -23.220384) "></path>
+                    </g>
+                </g>
+                <g id="sesame" transform="translate(27.000000, 14.000000)" stroke-width="2" fill="#D8D8D8" sketch:type="MSShapeGroup">
+                    <circle id="Oval-19" cx="61" cy="21" r="1"></circle>
+                    <circle id="Oval-20" cx="61" cy="1" r="1"></circle>
+                    <circle id="Oval-21" cx="81" cy="11" r="1"></circle>
+                    <circle id="Oval-22" cx="41" cy="11" r="1"></circle>
+                    <circle id="Oval-23" cx="101" cy="21" r="1"></circle>
+                    <circle id="Oval-24" cx="101" cy="1" r="1"></circle>
+                    <circle id="Oval-25" cx="121" cy="11" r="1"></circle>
+                    <circle id="Oval-26" cx="21" cy="21" r="1"></circle>
+                    <circle id="Oval-27" cx="141" cy="21" r="1"></circle>
+                    <circle id="Oval-28" cx="41" cy="31" r="1"></circle>
+                    <circle id="Oval-29" cx="81" cy="31" r="1"></circle>
+                    <circle id="Oval-30" cx="121" cy="31" r="1"></circle>
+                    <circle id="Oval-31" cx="161" cy="31" r="1"></circle>
+                    <circle id="Oval-32" cx="1" cy="31" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
