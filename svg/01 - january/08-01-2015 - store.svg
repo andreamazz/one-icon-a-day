@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>08-01-2015 - store</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="08-01-2015---store" sketch:type="MSArtboardGroup">
+            <g id="store" sketch:type="MSLayerGroup" transform="translate(24.000000, 27.000000)">
+                <path d="M2.17025801,71.318968 C1.41132007,73.5741082 1,75.9890196 1,78.5 C1,90.9264069 11.0735931,101 23.5,101 C32.6149527,101 40.4639883,95.5799649 44,87.7870015 L44,87.7870015 C47.5360117,95.5799649 55.3850473,101 64.5,101 C73.6149527,101 81.4639883,95.5799649 85,87.7870015 C88.5360117,95.5799649 96.3850473,101 105.5,101 C114.614953,101 122.463988,95.5799649 126,87.7870015 L126,87.7870015 C129.536012,95.5799649 137.385047,101 146.5,101 C154.835389,101 162.112138,96.4674253 166,89.7325231 C169.887862,96.4674253 177.164611,101 185.5,101 C197.926407,101 208,90.9264069 208,78.5 C208,75.9146733 207.563962,73.4311887 206.761416,71.1190759 L194,24 L14,24 L2.17025801,71.318968 Z" id="Oval-53" stroke="#4C4C4C" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <path d="M154,24 L166,76" id="Line" stroke="#4C4C4C" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M44,76 L51,24" id="Line" stroke="#4C4C4C" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M88,25 L85,76" id="Line" stroke="#4C4C4C" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M120,25 L125,76" id="Line-2" stroke="#4C4C4C" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M0.5,77 L208.5,77" id="Line" stroke="#4C4C4C" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-35" stroke="#4C4C4C" stroke-width="4" sketch:type="MSShapeGroup" x="12" y="0" width="184" height="26"></rect>
+                <path d="M14,100.5 L14,196" id="Line" stroke="#4C4C4C" stroke-width="4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M194,100.5 L194,195" id="Line-3" stroke="#4C4C4C" stroke-width="4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-36" stroke="#4C4C4C" stroke-width="2" sketch:type="MSShapeGroup" x="4" y="195" width="200" height="8" rx="8"></rect>
+                <path d="M124,124.99532 C124,121.684196 126.688217,119 130.006316,119 L167.993684,119 C171.310881,119 174,121.682557 174,124.99532 L174,195 L124,195 L124,124.99532 Z M166.073171,167.253968 C168.430484,167.253968 170.341463,165.363615 170.341463,163.031746 C170.341463,160.699877 168.430484,158.809524 166.073171,158.809524 C163.715858,158.809524 161.804878,160.699877 161.804878,163.031746 C161.804878,165.363615 163.715858,167.253968 166.073171,167.253968 Z" id="Rectangle-37" fill="#4C4C4C" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-38" stroke="#4C4C4C" stroke-width="2" sketch:type="MSShapeGroup" x="26" y="119" width="88" height="63"></rect>
+                <path d="M35.5,145.5 L54.0067558,126.993244" id="Line" stroke="#4C4C4C" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M85.5,173.5 L104.006756,154.993244" id="Line-5" stroke="#4C4C4C" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M35.5,155.5 L64.004385,126.995614" id="Line-4" stroke="#4C4C4C" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
