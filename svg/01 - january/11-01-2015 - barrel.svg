@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>11-01-2015 - barrel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="11-01-2015---barrel" sketch:type="MSArtboardGroup" stroke="#4C4C4C">
+            <g id="barrel" sketch:type="MSLayerGroup" transform="translate(42.000000, 17.000000)">
+                <ellipse id="Oval-93" stroke-width="2" sketch:type="MSShapeGroup" cx="86" cy="31" rx="56" ry="20"></ellipse>
+                <path d="M7.5,51 C7.5,51 10.9669811,82 86.25,82 C161.533019,82 165,51 165,51" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M7.5,171 C7.5,171 10.9669811,202 86.25,202 C161.533019,202 165,171 165,171" id="Line-2" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M0.5,121 C0.5,121 4.27515723,152 86.25,152 C168.224843,152 172,121 172,121" id="Line-3" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M0.5,101 C0.5,101 4.27515723,132 86.25,132 C168.224843,132 172,101 172,101" id="Line-4" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M86.5071009,0.715250802 C86.6114979,0.714115075 86.7159028,0.71308078 86.8203149,0.712148097 C86.8213818,0.712980526 86.822446,0.715268253 86.8235074,0.719003808 C122.946397,1.18291595 158.014192,13.7729263 158.014192,31 C158.014192,31 190.014191,99 158.014192,198 C140.87119,215.979247 113.0638,222.594802 86.5070959,222.671174 C59.9503915,222.594802 32.1430019,215.979247 14.9999995,198 C-16.9999996,99 15,31 15,31 C14.9999996,13.7729263 50.0677948,1.18291595 86.1906844,0.719003808 C86.1917458,0.715268253 86.19281,0.712980526 86.1938769,0.712148097 C86.2982907,0.713080795 86.4026973,0.714115108 86.5070959,0.715250857 Z" id="Path-44" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <path d="M15.5,30 C15.5,30 18.9755245,62 87.493007,62 C156.01049,62 157.5,30 157.5,30" id="Line" stroke-width="4" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M87,152.5 L87,201.5" id="Line-6" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M87,82.5 L87,131.5" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M38,77.5 C38,77.5 36,93.8333333 36,102 C36,110.166667 37,126 37,126" id="Line-7" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M135,77.5 C135,77.5 133,93.8333333 133,102 C133,110.166667 134,127 134,127" id="Line-8" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(134.000000, 102.250000) scale(-1, 1) translate(-134.000000, -102.250000) "></path>
+                <path d="M40,148 C40,148 41,164.166667 41.5,172.5 C42,180.833333 44.5,197.5 44.5,197.5" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M128,148 C128,148 129,164.166667 129.5,172.5 C130,180.833333 132.5,197.5 132.5,197.5" id="Line-9" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(130.250000, 172.750000) scale(-1, 1) translate(-130.250000, -172.750000) "></path>
+                <path d="M44.5,18 L127.506027,18" id="Line" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M44.5,44 L127.506027,44" id="Line-10" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <path d="M31,31 L141,31" id="Line-11" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
