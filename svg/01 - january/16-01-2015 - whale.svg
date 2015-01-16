@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>16-01-2015 - whale</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="16-01-2015---whale" sketch:type="MSArtboardGroup">
+            <g id="whale" sketch:type="MSLayerGroup" transform="translate(10.000000, 91.000000)">
+                <path d="M88.7812786,101.269844 C57.3098839,101.958115 29.5352973,101.121788 20.7321784,96.2640942 C0.339512874,81.9999997 0.339512874,59.5646418 0.339512874,43.9999981 C0.339512874,23.9999997 18,0.999999685 72.9999992,0.999999685 C127.999998,0.999999685 145.339517,72.0000012 178.339517,76.0000007 C187.518055,74.8874507 199.131806,63.6964998 197.000005,53.9999981 C194.746784,43.7512199 178.511604,34.9003446 180.339517,31.0000006 C181.834763,27.8094925 194.339513,21.0000019 207.339513,39.0000019 C218.339513,23.0000019 246.339517,24.0000006 231.339517,41.0000006 C223.166647,50.2625876 218.000009,51.0000006 212.000005,61.9999981 C206,72.9999955 212.000005,91.9999997 201.339517,96.2640921 C187.921073,96.2640917 149.29073,99.0911806 110.914745,100.582687 C109.271613,106.357143 112.909136,112 112.909136,112 C96.2817671,112 90.6524947,105.932085 88.7812786,101.269844 Z" id="Oval-94" stroke="#4C4C4C" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-95" fill="#4C4C4C" sketch:type="MSShapeGroup" cx="30" cy="71" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
