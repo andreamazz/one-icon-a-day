@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>17-01-2015 - mic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="17-01-2015---mic" sketch:type="MSArtboardGroup" stroke="#4C4C4C">
+            <g id="mic" sketch:type="MSLayerGroup" transform="translate(83.000000, 46.000000)">
+                <path d="M85,51 L85,39.9972305 C85,17.9027875 67.09139,0 45,0 C22.9037527,0 5,17.90737 5,39.9972305 L5,51 L0.995349011,51 C0.441796035,51 0,51.4440454 0,51.9918031 L0,70.0081969 C0,70.5446944 0.445632931,71 0.995349011,71 L5,71 L5,81.0027695 C5,103.097213 22.90861,121 45,121 C67.0962473,121 85,103.09263 85,81.0027695 L85,71 L89.004651,71 C89.558204,71 90,70.5559546 90,70.0081969 L90,51.9918031 C90,51.4553056 89.5543671,51 89.004651,51 L85,51 Z" id="Rectangle-75" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-81" stroke-width="2" sketch:type="MSShapeGroup" x="0" y="53" width="90" height="16" rx="1"></rect>
+            </g>
+            <g id="stand" sketch:type="MSLayerGroup" transform="translate(76.000000, 98.000000)">
+                <path d="M55.5317642,82.6537784 C105.70643,80.4150288 103.992997,30.4483315 103.992997,30.4483315 L103.992997,1.60254376 C101.303704,-2.00317961 98.6144108,1.60254376 98.6144108,1.60254376 L98.6144108,30.4483307 C98.6144108,30.4483307 98.614412,77.3227352 52,77.3227352 C5.385588,77.3227352 5.38558923,30.4483314 5.38558923,30.4483314 L5.38558923,1.60254377 C5.38558923,1.60254377 2.69629627,-2.00317971 0.007003367,1.60254376 C0.00700336997,1.60254373 0.007003367,30.4483307 0.007003367,30.4483307 C0.007003367,30.4483307 -1.70639551,80.4140388 48.4667426,82.6537119 C48.3019784,83.1191351 48.2018146,83.6135174 48.1775581,84.1258996 L47,108.999999 L57,108.999999 L55.8224419,84.1258996 C55.7982025,83.6138795 55.697462,83.1194572 55.5317642,82.6537784 Z" id="Path-69" stroke-width="2" fill="#4C4C4C" sketch:type="MSShapeGroup"></path>
+                <path d="M11.6606061,125.994828 C11.6606061,125.001992 11.9283803,123.437203 12.3602408,122.542607 C12.3602408,122.542607 15.24633,108.872814 52,108.872814 C88.75367,108.872814 91.6476302,122.557167 91.6476302,122.557167 C92.0296808,123.462898 92.3393939,124.993148 92.3393939,125.994828 L92.3393939,124.20231 C92.3393939,125.195147 91.5408876,126 90.5411851,126 L13.4588149,126 C12.4656916,126 11.6606061,125.203991 11.6606061,124.20231 L11.6606061,125.994828 Z" id="Rectangle-77" stroke-width="4" fill="#4C4C4C" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-78" stroke-width="2" sketch:type="MSShapeGroup" x="5" y="6" width="3" height="6"></rect>
+                <rect id="Rectangle-79" stroke-width="2" sketch:type="MSShapeGroup" x="96" y="6" width="3" height="6"></rect>
+            </g>
+            <g id="grid" sketch:type="MSLayerGroup" transform="translate(101.000000, 63.000000)" stroke-width="2">
+                <g id="upper-grid" sketch:type="MSShapeGroup">
+                    <circle id="Oval-96" cx="12" cy="2" r="2"></circle>
+                    <circle id="Oval-97" cx="22" cy="2" r="2"></circle>
+                    <circle id="Oval-98" cx="32" cy="2" r="2"></circle>
+                    <circle id="Oval-99" cx="42" cy="2" r="2"></circle>
+                    <circle id="Oval-103" cx="7" cy="12" r="2"></circle>
+                    <circle id="Oval-100" cx="17" cy="12" r="2"></circle>
+                    <circle id="Oval-101" cx="27" cy="12" r="2"></circle>
+                    <circle id="Oval-102" cx="37" cy="12" r="2"></circle>
+                    <circle id="Oval-110" cx="47" cy="12" r="2"></circle>
+                    <circle id="Oval-107" cx="12" cy="22" r="2"></circle>
+                    <circle id="Oval-108" cx="12" cy="22" r="2"></circle>
+                    <circle id="Oval-109" cx="2" cy="22" r="2"></circle>
+                    <circle id="Oval-104" cx="22" cy="22" r="2"></circle>
+                    <circle id="Oval-105" cx="32" cy="22" r="2"></circle>
+                    <circle id="Oval-106" cx="42" cy="22" r="2"></circle>
+                    <circle id="Oval-111" cx="52" cy="22" r="2"></circle>
+                </g>
+                <g id="lower-grid" transform="translate(27.000000, 75.000000) rotate(-180.000000) translate(-27.000000, -75.000000) translate(0.000000, 63.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-96" cx="12" cy="2" r="2"></circle>
+                    <circle id="Oval-97" cx="22" cy="2" r="2"></circle>
+                    <circle id="Oval-98" cx="32" cy="2" r="2"></circle>
+                    <circle id="Oval-99" cx="42" cy="2" r="2"></circle>
+                    <circle id="Oval-103" cx="7" cy="12" r="2"></circle>
+                    <circle id="Oval-100" cx="17" cy="12" r="2"></circle>
+                    <circle id="Oval-101" cx="27" cy="12" r="2"></circle>
+                    <circle id="Oval-102" cx="37" cy="12" r="2"></circle>
+                    <circle id="Oval-110" cx="47" cy="12" r="2"></circle>
+                    <circle id="Oval-107" cx="12" cy="22" r="2"></circle>
+                    <circle id="Oval-108" cx="12" cy="22" r="2"></circle>
+                    <circle id="Oval-109" cx="2" cy="22" r="2"></circle>
+                    <circle id="Oval-104" cx="22" cy="22" r="2"></circle>
+                    <circle id="Oval-105" cx="32" cy="22" r="2"></circle>
+                    <circle id="Oval-106" cx="42" cy="22" r="2"></circle>
+                    <circle id="Oval-111" cx="52" cy="22" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
