@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>21-01-2015 - coffee</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="21-01-2015---coffee" sketch:type="MSArtboardGroup">
+            <g id="coffee" sketch:type="MSLayerGroup" transform="translate(65.000000, 22.000000)">
+                <g id="cup" transform="translate(0.000000, 48.508475)" stroke="#4C4C4C" stroke-width="3.6" sketch:type="MSShapeGroup">
+                    <path d="M114.109858,70.0677966 L117,35.9322034 L9,35.9322034 L11.8901408,70.0677966 L9,70.0677966 L13.5,125.762712 L16.6056337,125.762712 L19.1923075,156.314041 C19.5276306,160.274559 23.0232457,163.491525 26.9993209,163.491525 L99.0006763,163.491525 C102.970703,163.491525 106.472071,160.278056 106.80769,156.314041 L109.394364,125.762712 L112.5,125.762712 L117,70.0677966 L114.109858,70.0677966 Z" id="Rectangle-99"></path>
+                    <path d="M9,70.0677966 L117,70.0677966 L112.5,125.762712 L13.5,125.762712 L9,70.0677966 Z" id="Rectangle-103" fill="#4C4C4C"></path>
+                    <rect id="Rectangle-100" x="0" y="17.9661017" width="126" height="21.559322" rx="3.6"></rect>
+                    <path d="M9.78779601,3.46387807 C10.3468208,1.55083103 12.4049664,0 14.3927609,0 L110.707239,0 C112.691466,0 114.812034,1.5332099 115.440861,3.41613867 L120.359139,18.1431834 C120.989219,20.0298647 119.890577,21.559322 117.902398,21.559322 L8.09760237,21.559322 C6.11070145,21.559322 4.95308046,20.0088288 5.51220399,18.095444 L9.78779601,3.46387807 Z" id="Rectangle-101"></path>
+                </g>
+                <g id="steam" transform="translate(38.700000, 0.000000)" fill="#4C4C4C" sketch:type="MSShapeGroup">
+                    <path d="M5.4,42.220339 C5.4,42.220339 16.2000002,31.440678 5.39999984,22.4576271 C-5.4000002,13.4745765 4.5,2.69491525 9,0 C9,0 1.79999898,8.98305085 13.4999998,22.4576271 C25.2000007,35.9322034 5.4,42.220339 5.4,42.220339 Z" id="Path-90"></path>
+                    <path d="M36,42.220339 C36,42.220339 46.8000002,31.440678 35.9999998,22.4576271 C25.1999998,13.4745765 35.1,2.69491525 39.6,0 C39.6,0 32.399999,8.98305085 44.0999998,22.4576271 C55.8000007,35.9322034 36,42.220339 36,42.220339 Z" id="Path-91"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
