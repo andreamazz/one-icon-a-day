@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>24-01-2015 - shovel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="24-01-2015---shovel" sketch:type="MSArtboardGroup">
+            <g id="shovel" sketch:type="MSLayerGroup" transform="translate(128.353553, 127.646447) rotate(-45.000000) translate(-128.353553, -127.646447) translate(83.853553, 0.646447)">
+                <g id="Path-95-+-Rectangle-107" transform="translate(12.000000, -0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M25.2777778,57.7560976 C25.2777778,57.7560976 25.2777778,14.4390244 10.8333333,14.4390244 C-3.61111111,14.4390244 -3.61111111,6.41221493e-15 10.8333333,0 C25.2777778,0 39.7222222,4.04176114e-15 54.1666667,0 C68.6111111,-4.04176116e-15 68.6111111,14.4390244 54.1666667,14.4390244 C39.7222222,14.4390244 39.7222222,57.7560976 39.7222222,57.7560976 L25.2777778,57.7560976 Z" id="Path-95" stroke="#4C4C4C" stroke-width="3.6"></path>
+                    <rect id="Rectangle-107" fill="#4C4C4C" x="25.2777778" y="55.7560976" width="14.4444444" height="127.243902"></rect>
+                </g>
+                <path d="M1.42108547e-13,181 C1.42108547e-13,181 1.42108547e-13,254 44,254 C88,254 88,181 88,181 L1.42108547e-13,181 Z" id="Path-96" stroke="#4C4C4C" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <path d="M38,181 C38,181 38,215 44.5,215 C51,215 51,181 51,181 L38,181 Z" id="Path-97" stroke="#4C4C4C" stroke-width="4" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
