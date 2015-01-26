@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>25-01-2015 - gift</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="25-01-2015---gift" sketch:type="MSArtboardGroup" fill="#4C4C4C">
+            <g id="gift" sketch:type="MSLayerGroup" transform="translate(38.000000, 30.000000)">
+                <path d="M10,66 L170,66 L170,192.002664 C170,194.210332 168.203125,196 166.005003,196 L13.9949965,196 C11.7886209,196 10,194.211752 10,192.002664 L10,66 Z M14,70 L166,70 L166,190.009328 C166,191.108746 165.107361,192 163.994487,192 L16.0055126,192 C14.8978986,192 14,191.105285 14,190.009328 L14,70 Z" id="Rectangle-108" sketch:type="MSShapeGroup"></path>
+                <path d="M0,43.9992748 C0,41.7905363 1.78152323,40 3.99060623,40 L176.009394,40 C178.213345,40 180,41.7867947 180,43.9992748 L180,66.0007252 C180,68.2094637 178.218477,70 176.009394,70 L3.99060623,70 C1.78665527,70 0,68.2132053 0,66.0007252 L0,43.9992748 Z M4,45.991155 C4,44.8914705 4.90479757,44 5.9911224,44 L174.008878,44 C175.108544,44 176,44.8896739 176,45.991155 L176,64.008845 C176,65.1085295 175.095202,66 174.008878,66 L5.9911224,66 C4.89145586,66 4,65.1103261 4,64.008845 L4,45.991155 Z" id="Rectangle-110" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-112" sketch:type="MSShapeGroup" x="67" y="40" width="46" height="156"></rect>
+                <path d="M55,40 L90,40 L90,20 C90,8.954305 74.3299662,0 55,0 C35.6700338,0 20,8.954305 20,20 C20,31.045695 35.6700338,40 55,40 Z M55,32 L82,32 L82,20 C82,16 74.3299662,8 55,8 C35.6700338,8 28,15 28,20 C28,25 35.6700338,32 55,32 Z" id="Oval-153" sketch:type="MSShapeGroup"></path>
+                <path d="M125,40 L160,40 L160,20 C160,8.954305 144.329966,0 125,0 C105.670034,0 90,8.954305 90,20 C90,31.045695 105.670034,40 125,40 Z M125,32 L152,32 L152,20 C152,16 144.329966,8 125,8 C105.670034,8 98,15 98,20 C98,25 105.670034,32 125,32 Z" id="Oval-155" sketch:type="MSShapeGroup" transform="translate(125.000000, 20.000000) scale(-1, 1) translate(-125.000000, -20.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
