@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>09-02-2015 - bell</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="09-02-2015---bell" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M40.4084886,20.4786614 C33.061157,22.0926935 17,29.1491934 17,60 L71,60 C71,29.1491934 54.938843,22.0926935 47.5915114,20.4786614 C48.4633813,19.5786867 49,18.3520104 49,17 C49,14.2385763 46.7614237,12 44,12 C41.2385763,12 39,14.2385763 39,17 C39,18.3520104 39.5366187,19.5786867 40.4084886,20.4786614 L40.4084886,20.4786614 Z M44,20 C45.6568542,20 47,18.6568542 47,17 C47,15.3431458 45.6568542,14 44,14 C42.3431458,14 41,15.3431458 41,17 C41,18.6568542 42.3431458,20 44,20 Z M14,66 C14,63.2385763 16.2425656,61 18.9995286,61 L69.0004714,61 C71.7616348,61 74,63.2441952 74,66 C74,68.7614237 71.7574344,71 69.0004714,71 L18.9995286,71 C16.2383652,71 14,68.7558048 14,66 Z M44,78 C47.3137085,78 50,75.3137085 50,72 C50,72.0000001 38,72.0000001 38,72 C38,75.3137085 40.6862915,78 44,78 Z" id="bell" sketch:type="MSShapeGroup" transform="translate(44.000000, 45.000000) rotate(-45.000000) translate(-44.000000, -45.000000) "></path>
+        </g>
+    </g>
+</svg>
