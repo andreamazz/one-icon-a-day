@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>03-03-2015 - hourglass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-03-2015---hourglass" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M76.9738342,17 L80,17 L80,11 L20,11 L20,17 L24.0250282,17 C24.8540322,49.4937534 46,39.9084239 46,52 C46,64.1180208 24.7614371,50.3819987 24.019881,87 L20,87 L20,93 L80,93 L80,87 L76.9792153,87 C76.2039521,50.3819987 54,64.1180208 54,52 C54,39.9084239 76.1071482,49.4937534 76.9738342,17 L76.9738342,17 Z M48,52 C48,36 26,50 26,17 L75,17 C75,50 52,36 52,52 C52,68 75,50 75,87 L26,87 C26,50 48,68 48,52 Z M26.9999999,86 C26.9999999,86 31.0142402,64 50.50712,64 C69.9999999,64 72.9999999,83 73.9999999,86 L26.9999999,86 Z" id="Rectangle-7" sketch:type="MSShapeGroup"></path>
+            <path d="M46,44 C40.9424824,40.3552529 34,38 34,38 C34,38 50,43 67,38 C61.9872926,40.4777891 58.5777778,41.1494424 56,43 C49.2145921,47.8711678 52,50 50,50 C48.4060809,50 49.7701955,46.7170264 46,44 Z" id="Path-6" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
