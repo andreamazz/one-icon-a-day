@@ -4,6 +4,9 @@ The icons will be designed with [Sketch](http://bohemiancoding.com/sketch/) and 
 
 I'll be using a randomly generated word. If you have requests, by all means, open an issue and I'll see if I can design it. 
 
+##The Noun Project
+You can also find all the icons in [my Noun Project profile](https://thenounproject.com/andreamazz). 
+
 #LICENSE
     Creative Commons Attribution 4.0 International 
     You are free to:
