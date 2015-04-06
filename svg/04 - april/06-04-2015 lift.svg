@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>06-04-2015 lift</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="06-04-2015-lift" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M45,28 L16.0032986,28 C14.9047241,28 14,28.8923277 14,29.9930696 L14,84 L45,84 L45,28 L45,28 Z M47,28 L75.9967014,28 C77.1030927,28 78,28.9023082 78,29.9930696 L78,84 L47,84 L47,28 L47,28 Z M12,30.0065556 C12,27.793796 13.7838823,26 15.9998408,26 L76.0001592,26 C78.2092103,26 80,27.7956808 80,30.0065556 L80,86 L12,86 L12,30.0065556 Z M58,24 C58,19.0294373 52.627417,15 46,15 C39.372583,15 34,19.0294373 34,24 L58,24 Z M55,22 C55,19.2385763 50.9705627,17 46,17 C41.0294373,17 37,19.2385763 37,22 L55,22 Z M46,21.5 C46.5522847,21.5 47,21.0522847 47,20.5 C47,19.9477153 46,18 46,18 C46,18 45,19.9477153 45,20.5 C45,21.0522847 45.4477153,21.5 46,21.5 Z M86,50 C87,50 89,56 89,56 L83,56 C83,56 85,50 86,50 Z M86,66 C87,66 89,60 89,60 L83,60 C83,60 85,66 86,66 Z" id="lift" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
