@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12005) - http://www.bohemiancoding.com/sketch -->
+    <title>03-05-2015 - door</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-05-2015---door" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M26,14 L74,14 L74,86 L26,86 L26,14 Z M66,60 C67.6568542,60 69,58.6568542 69,57 C69,55.3431458 67.6568542,54 66,54 C64.3431458,54 63,55.3431458 63,57 C63,58.6568542 64.3431458,60 66,60 Z M32,20.9981537 C32,20.4468886 32.455173,20 33.0004194,20 L66.9995806,20 C67.552097,20 68,20.4473652 68,20.9981537 L68,49.0018463 C68,49.5531114 67.544827,50 66.9995806,50 L33.0004194,50 C32.447903,50 32,49.5526348 32,49.0018463 L32,20.9981537 Z" id="door" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
