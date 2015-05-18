@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>18-05-2015 - lamp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="18-05-2015---lamp" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M39,57.0500091 L39,46 L38,46 L38,57.0500091 C36.8588798,57.2816442 36,58.290521 36,59.5 C36,60.8807119 37.1192881,62 38.5,62 C39.8807119,62 41,60.8807119 41,59.5 C41,58.290521 40.1411202,57.2816442 39,57.0500091 L39,57.0500091 Z M35,83 C35,81.3431458 36.3473186,80 38.0000191,80 L61.9999809,80 C63.6568457,80 65,81.3465171 65,83 L65,86 L35,86 L35,83 Z M48,46 L52,46 L52,80 L48,80 L48,46 Z M33,14 L67,14 L72,46 L28,46 L33,14 Z M35,16 L65,16 L69.5,44 L30.5,44 L35,16 Z M38.5,61 C39.3284271,61 40,60.3284271 40,59.5 C40,58.6715729 39.3284271,58 38.5,58 C37.6715729,58 37,58.6715729 37,59.5 C37,60.3284271 37.6715729,61 38.5,61 Z" id="lamp" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
