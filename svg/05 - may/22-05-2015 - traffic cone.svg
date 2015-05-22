@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>22-05-2015 - traffic cone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="22-05-2015---traffic-cone" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M20,81 C20,79.8954305 20.8947304,79 21.9963074,79 L78.0036926,79 C79.1062227,79 80,79.8877296 80,81 L80,83 L20,83 L20,81 Z M50,17 C57.6666667,17 73,79 73,79 L27,79 C27,79 42.3333333,17 50,17 Z M35,54 L65,54 L68,66 L32,66 L35,54 Z M42,33 L58,33 L62,45 L38,45 L42,33 Z" id="traffic-cone" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
