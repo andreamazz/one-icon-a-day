@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>01-06-2015 - airplane</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="01-06-2015---airplane" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M53.3786095,73.1971443 C54.9226812,65.3696025 56.4800248,54.5072743 57.3344765,44.8380674 L93.5,54 L93,47 L57.9702368,34.3503633 L57.9702368,34.3503633 C57.9898527,33.5544615 58,32.7859315 58,32.0487805 C58,14.7317073 53.4718007,13 50,13 C46.4653776,13 42,14.7546551 42,32.0487805 C42,32.8408474 42.0117467,33.6693353 42.0343946,34.5292464 L42.0343946,34.5292464 L7.5,47 L7,54 L42.6772934,44.9617523 C43.5328762,54.5795561 45.0795117,65.3625673 46.6141442,73.154763 L46.6141442,73.154763 L36,81 L35.5,88 L48.3126093,80.4891601 C48.9522961,82.704384 49.5359622,84 50,84 C50.4618962,84 51.042319,82.7171652 51.6785377,80.5218309 L64.4354143,88 L63.9354143,81 L53.3786095,73.1971443 Z" id="airplane" sketch:type="MSShapeGroup" transform="translate(50.250000, 50.500000) rotate(-45.000000) translate(-50.250000, -50.500000) "></path>
+        </g>
+    </g>
+</svg>
