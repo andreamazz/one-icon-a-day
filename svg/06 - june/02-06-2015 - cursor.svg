@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>02-06-2015 - cursor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="02-06-2015---cursor" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M48,55.2397092 C40.9862789,56.7602908 30,65 30,65 L50,15 L70,65 C70,65 59.0137211,56.7602908 52,55.2397092 L52,85 L48,85 L48,55.2397092 Z" id="cursor" sketch:type="MSShapeGroup" transform="translate(50.000000, 50.000000) rotate(-30.000000) translate(-50.000000, -50.000000) "></path>
+        </g>
+    </g>
+</svg>
