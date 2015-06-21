@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>21-06-2015 - padlock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="21-06-2015---padlock" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M51.5386702,63.1933509 C52.9840681,62.5904947 54,61.1638892 54,59.5 C54,57.290861 52.209139,55.5 50,55.5 C47.790861,55.5 46,57.290861 46,59.5 C46,61.1638892 47.0159319,62.5904947 48.4613298,63.1933509 L47,70.5 L53,70.5 L51.5386702,63.1933509 Z M33.5,47.5 L33.5,37.25 C33.5,28.2753728 40.7828427,21 49.7583085,21 L50.2416915,21 C59.2209074,21 66.5,28.2733995 66.5,37.25 L66.5,47.5 L73.0090859,47.5 C74.1086374,47.5 75,48.3892617 75,49.5017433 L75,77.4982567 C75,78.603789 74.1109357,79.5 73.0090859,79.5 L26.9909141,79.5 C25.8913626,79.5 25,78.6107383 25,77.4982567 L25,49.5017433 C25,48.396211 25.8890643,47.5 26.9909141,47.5 L33.5,47.5 Z M38,47.5 L38,37.4963702 C38,30.8709579 43.3711258,25.5 50,25.5 C56.627417,25.5 62,30.8655518 62,37.4963702 L62,47.5 L38,47.5 L38,47.5 Z" id="padlock" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
