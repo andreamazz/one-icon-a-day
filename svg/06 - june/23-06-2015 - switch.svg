@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>23-06-2015 - switch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="23-06-2015---switch" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M18,50 C18,41.163444 25.1553215,34 34.0054195,34 L65.9945805,34 C74.8341296,34 82,41.1615011 82,50 C82,58.836556 74.8446785,66 65.9945805,66 L34.0054195,66 C25.1658704,66 18,58.8384989 18,50 Z M34,64 C41.7319865,64 48,57.7319865 48,50 C48,42.2680135 41.7319865,36 34,36 C26.2680135,36 20,42.2680135 20,50 C20,57.7319865 26.2680135,64 34,64 Z" id="switch" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
