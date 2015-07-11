@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>11-07-2015 - polaroid</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="11-07-2015---polaroid" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M25,21.8004721 C25,21.3583836 25.3529061,21 25.8010882,21 L75.1989118,21 C75.6413406,21 76,21.3614702 76,21.8004721 L76,79.1995279 C76,79.6416164 75.6470939,80 75.1989118,80 L25.8010882,80 C25.3586594,80 25,79.6385298 25,79.1995279 L25,21.8004721 Z M28.984375,24.9864865 L72.015625,24.9864865 L72.015625,68.0405405 L28.984375,68.0405405 L28.984375,24.9864865 Z" id="polaroid" sketch:type="MSShapeGroup" transform="translate(50.500000, 50.500000) rotate(-20.000000) translate(-50.500000, -50.500000) "></path>
+        </g>
+    </g>
+</svg>
