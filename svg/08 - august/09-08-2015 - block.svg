@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>09-08-2015 - block</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="09-08-2015---block" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M74.4999094,55 C72.1835578,66.4112016 62.0947896,75 50,75 C37.9052104,75 27.8164422,66.4112016 25.5000906,55 L74.4999094,55 Z M74.4999094,45 C72.1835578,33.5887984 62.0947896,25 50,25 C37.9052104,25 27.8164422,33.5887984 25.5000906,45 L74.4999094,45 Z M50,84 C68.7776815,84 84,68.7776815 84,50 C84,31.2223185 68.7776815,16 50,16 C31.2223185,16 16,31.2223185 16,50 C16,68.7776815 31.2223185,84 50,84 Z" id="block" sketch:type="MSShapeGroup" transform="translate(50.000000, 50.000000) rotate(-45.000000) translate(-50.000000, -50.000000) "></path>
+        </g>
+    </g>
+</svg>
