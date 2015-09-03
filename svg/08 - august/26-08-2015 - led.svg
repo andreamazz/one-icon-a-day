@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>26-08-2015 - led</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="26-08-2015---led" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M67,47 L67,24.9925987 C67,15.6178461 59.3888407,8 50,8 C40.6090949,8 33,15.6078456 33,24.9925987 L33,47 L30,47 L30,53 L70,53 L70,47 L67,47 Z M44,53 L46,53 L46,92 L44,92 L44,53 Z M54,53 L56,53 L56,80 L54,80 L54,53 Z" id="led" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
