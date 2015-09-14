@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>03-09-2015 - compass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="03-09-2015---compass" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M50,85 C69.3299662,85 85,69.3299662 85,50 C85,30.6700338 69.3299662,15 50,15 C30.6700338,15 15,30.6700338 15,50 C15,69.3299662 30.6700338,85 50,85 Z M50,78 C65.463973,78 78,65.463973 78,50 C78,34.536027 65.463973,22 50,22 C34.536027,22 22,34.536027 22,50 C22,65.463973 34.536027,78 50,78 Z M35.8578644,35.8578644 L53.5355339,46.4644661 L64.495689,63.7885822 L46.4644661,53.5355339 L35.8578644,35.8578644 Z M51.4142136,51.4142136 C52.1952621,50.633165 52.1952621,49.366835 51.4142136,48.5857864 C50.633165,47.8047379 49.366835,47.8047379 48.5857864,48.5857864 C47.8047379,49.366835 47.8047379,50.633165 48.5857864,51.4142136 C49.366835,52.1952621 50.633165,52.1952621 51.4142136,51.4142136 Z" id="compass" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
