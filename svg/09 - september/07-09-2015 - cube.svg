@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>07-09-2015 - cube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="07-09-2015---cube" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M18,30.6534296 L48.9963899,38.3068592 L48.9963899,76.5740072 L18,68.9205776 L18,30.6534296 Z M81.6,30.6534296 L50.6036101,38.3068592 L50.6036101,76.5740072 L81.6,68.9205776 L81.6,30.6534296 Z M18.3826715,29.1227437 L49.7617329,23 L81.5234657,29.1227437 L49.7617329,36.7761733 L18.3826715,29.1227437 Z" id="cube" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
