@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>14-09-2015 paper</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="14-09-2015-paper" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M25,17 L25,17 L27,15 L27,85 L25,83 L75,83 L73,85 L73,25 L73.5838016,26.412226 C73.5059604,26.3341658 73.5059604,26.3341658 73.1554065,25.9826807 C72.6879466,25.5140158 72.6879466,25.5140158 72.0255771,24.8500578 C70.8566453,23.6783873 69.6872827,22.5067241 68.595313,21.4132208 C68.5900403,21.4079407 68.5900403,21.4079407 68.5847675,21.4026606 C67.1835095,19.9994401 66.0150657,18.830456 65.157152,17.9737505 C64.6705755,17.4878593 64.2905745,17.1091018 64.0273255,16.84769 C63.8899622,16.7112855 63.7852094,16.6076491 63.7152537,16.5389482 C69.7293818,22.445205 64.0623649,17 65,17 L25,17 Z M25,15 L65,15 C65.0280497,15 75,25 75,25 L75,85 L25,85 L25,15 L25,15 Z" id="paper" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
