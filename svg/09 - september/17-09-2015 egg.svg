@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>17-09-2015 egg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="17-09-2015-egg" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M50,85 C69.2354648,85 76,78.6059889 76,60 C76,42.4800156 59.9235724,17 50,17 C40.0764276,17 24,42.4800156 24,60 C24,78.6059889 30.7645352,85 50,85 L50,85 Z M50,83 C31.8446983,83 26,77.4754421 26,60 C26,51.7325397 29.5636868,41.5660478 35.1582318,32.6990844 C40.334047,24.4957786 46.3295158,19 50,19 C53.6704842,19 59.665953,24.4957786 64.8417682,32.6990844 C70.4363132,41.5660478 74,51.7325397 74,60 C74,77.4754421 68.1553017,83 50,83 L50,83 Z" id="egg" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
