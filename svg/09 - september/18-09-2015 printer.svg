@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>18-09-2015 printer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="18-09-2015-printer" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M29,29 L19.9998408,29 C17.7838823,29 16,30.7944925 16,33.0081112 L16,66.9918888 C16,69.2087482 17.7907897,71 19.9998408,71 L80.0001592,71 C82.2161177,71 84,69.2055075 84,66.9918888 L84,33.0081112 C84,30.7912518 82.2092103,29 80.0001592,29 L71,29 L71,16 L29,16 L29,29 L27,29 L27,14 L73,14 L73,29 L71,29 L71,38 L29,38 L29,29 L29,29 Z M27,71 L73,71 L73,86 L27,86 L27,71 Z M29,71 L71,71 L71,84 L29,84 L29,71 Z M34,79.5 C34,79.2238576 34.2214313,79 34.5026436,79 L65.4973564,79 C65.7749588,79 66,79.2319336 66,79.5 C66,79.7761424 65.7785687,80 65.4973564,80 L34.5026436,80 C34.2250412,80 34,79.7680664 34,79.5 Z M34,74.5 C34,74.2238576 34.2214313,74 34.5026436,74 L65.4973564,74 C65.7749588,74 66,74.2319336 66,74.5 C66,74.7761424 65.7785687,75 65.4973564,75 L34.5026436,75 C34.2250412,75 34,74.7680664 34,74.5 Z M78,38 C79.1045695,38 80,37.1045695 80,36 C80,34.8954305 79.1045695,34 78,34 C76.8954305,34 76,34.8954305 76,36 C76,37.1045695 76.8954305,38 78,38 Z" id="printer" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
