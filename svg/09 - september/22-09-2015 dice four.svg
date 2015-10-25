@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>22-09-2015 dice four</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="22-09-2015-dice-four" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M15,22.9957852 C15,18.579835 18.579658,15 22.9957852,15 L77.0042148,15 C81.420165,15 85,18.579658 85,22.9957852 L85,77.0042148 C85,81.420165 81.420342,85 77.0042148,85 L22.9957852,85 C18.579835,85 15,81.420342 15,77.0042148 L15,22.9957852 Z M70,76 C73.3137085,76 76,73.3137085 76,70 C76,66.6862915 73.3137085,64 70,64 C66.6862915,64 64,66.6862915 64,70 C64,73.3137085 66.6862915,76 70,76 Z M30,36 C33.3137085,36 36,33.3137085 36,30 C36,26.6862915 33.3137085,24 30,24 C26.6862915,24 24,26.6862915 24,30 C24,33.3137085 26.6862915,36 30,36 Z M30,76 C33.3137085,76 36,73.3137085 36,70 C36,66.6862915 33.3137085,64 30,64 C26.6862915,64 24,66.6862915 24,70 C24,73.3137085 26.6862915,76 30,76 Z M70,36 C73.3137085,36 76,33.3137085 76,30 C76,26.6862915 73.3137085,24 70,24 C66.6862915,24 64,26.6862915 64,30 C64,33.3137085 66.6862915,36 70,36 Z" id="dice-four" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
