@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>07-10-2015 - qr code</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="07-10-2015---qr-code" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M72,71 L72,67 L67,67 L67,64 L62,64 L57,64 L57,70 L62,70 L66,70 L66,73 L71,73 L71,77 L77,77 L77,71 L72,71 Z M23,23 L47,23 L47,47 L23,47 L23,23 Z M25,25 L45,25 L45,45 L25,45 L25,25 Z M29,29 L41,29 L41,41 L29,41 L29,29 Z M53,23 L77,23 L77,47 L53,47 L53,23 Z M55,25 L75,25 L75,45 L55,45 L55,25 Z M59,29 L71,29 L71,41 L59,41 L59,29 Z M23,53 L47,53 L47,77 L23,77 L23,53 Z M25,55 L45,55 L45,75 L25,75 L25,55 Z M29,59 L41,59 L41,71 L29,71 L29,59 Z M54,53 L63,53 L63,62 L54,62 L54,53 Z M71,53 L77,53 L77,59 L71,59 L71,53 Z M65,57 L71,57 L71,63 L65,63 L65,57 Z M54,71 L60,71 L60,77 L54,77 L54,71 Z M71,61 L77,61 L77,67 L71,67 L71,61 Z" id="qr-code" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
