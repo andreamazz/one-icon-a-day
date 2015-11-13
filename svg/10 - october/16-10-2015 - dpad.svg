@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>16-10-2015 - dpad</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="16-10-2015---dpad" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M65,35 L65,17.9994146 C65,15.7977484 63.2094637,14 61.0007252,14 L38.9992748,14 C36.7867947,14 35,15.7905989 35,17.9994146 L35,35 L17.9994146,35 C15.7977484,35 14,36.7905363 14,38.9992748 L14,61.0007252 C14,63.2132053 15.7905989,65 17.9994146,65 L35,65 L35,82.0005854 C35,84.2022516 36.7905363,86 38.9992748,86 L61.0007252,86 C63.2132053,86 65,84.2094011 65,82.0005854 L65,65 L82.0005854,65 C84.2022516,65 86,63.2094637 86,61.0007252 L86,38.9992748 C86,36.7867947 84.2094011,35 82.0005854,35 L65,35 Z M50,56 C53.3137085,56 56,53.3137085 56,50 C56,46.6862915 53.3137085,44 50,44 C46.6862915,44 44,46.6862915 44,50 C44,53.3137085 46.6862915,56 50,56 Z M50,21 L55,29 L45,29 L50,21 Z M50,79 L55,71 L45,71 L50,79 Z M21,50 L29,45 L29,55 L21,50 Z M79,50 L71,45 L71,55 L79,50 Z" id="dpad" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
