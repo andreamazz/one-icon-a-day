@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>20-10-2015 - tetris</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="20-10-2015---tetris" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M26,51 L41,51 L41,66 L26,66 L26,51 Z M43,51 L58,51 L58,66 L43,66 L43,51 Z M43,34 L58,34 L58,49 L43,49 L43,34 Z M60,34 L75,34 L75,49 L60,49 L60,34 Z" id="tetris" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
