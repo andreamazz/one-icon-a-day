@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>24-10-2015 - barcode</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="24-10-2015---barcode" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M18,31 L24,31 L24,73 L18,73 L18,31 Z M48,31 L54,31 L54,73 L48,73 L48,31 Z M78,31 L84,31 L84,73 L78,73 L78,31 Z M72,31 L75,31 L75,73 L72,73 L72,31 Z M61,31 L64,31 L64,73 L61,73 L61,31 Z M31,31 L34,31 L34,73 L31,73 L31,31 Z M41,31 L43,31 L43,73 L41,73 L41,31 Z M26,31 L28,31 L28,73 L26,73 L26,31 Z M36,31 L38,31 L38,73 L36,73 L36,31 Z M56,31 L58,31 L58,73 L56,73 L56,31 Z M66,31 L68,31 L68,73 L66,73 L66,31 Z" id="barcode" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
