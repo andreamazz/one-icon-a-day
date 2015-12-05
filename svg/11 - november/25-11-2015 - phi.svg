@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16044) - http://www.bohemiancoding.com/sketch -->
+    <title>25-11-2015 - phi</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="25-11-2015---phi" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M53,71.910314 C69.8195,70.8998564 83,61.4760851 83,50 C83,38.5239149 69.8195,29.1001436 53,28.089686 C53,22.3285946 53,18.3838389 53,18 C53,16 60,16 60,16 L60,13 L40,13 L40,16 C40,16 47,16 47,18 C47,21.0287904 47,24.4473571 47,28.089686 C30.1805,29.1001436 17,38.5239149 17,50 C17,61.4760851 30.1805,70.8998564 47,71.910314 C47,77.5842328 47,81.4197114 47,82 C47,84 40,84 40,84 L40,87 L60,87 L60,84 C60,84 53,84 53,82.0242032 C53,81.5442658 53,77.6119088 53,71.910314 Z M53,68.8398387 C64.285065,67.6254732 73,59.6534792 73,50 C73,40.3465208 64.285065,32.3745268 53,31.1601613 C53,42.1777034 53,57.8103308 53,68.8398387 Z M47,31.1601613 C35.714935,32.3745268 27,40.3465208 27,50 C27,59.6534792 35.714935,67.6254732 47,68.8398387 C47,58.503767 47,43.8203317 47,31.1601613 Z" id="phi" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
