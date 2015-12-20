@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>11-12-2015 - error</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="11-12-2015---error" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M50,89 C71.5391052,89 89,71.5391052 89,50 C89,28.4608948 71.5391052,11 50,11 C28.4608948,11 11,28.4608948 11,50 C11,71.5391052 28.4608948,89 50,89 L50,89 Z M50,87 C29.5654643,87 13,70.4345357 13,50 C13,29.5654643 29.5654643,13 50,13 C70.4345357,13 87,29.5654643 87,50 C87,70.4345357 70.4345357,87 50,87 L50,87 Z M50,76 C52.7614237,76 55,73.7614237 55,71 C55,68.2385763 52.7614237,66 50,66 C47.2385763,66 45,68.2385763 45,71 C45,73.7614237 47.2385763,76 50,76 Z M45.058488,25.0052699 C45.026186,23.8977899 45.8874333,23 46.999615,23 L53.000385,23 C54.1047419,23 54.9754679,23.8944731 54.941512,25.0052699 C54.941512,25.0052699 54.0000003,64 50,64 C45.9999997,64 45.058488,25.0052699 45.058488,25.0052699 Z" id="error" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
