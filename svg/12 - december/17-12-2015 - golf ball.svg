@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>17-12-2015 - golf ball</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="January" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="17-12-2015---golf-ball" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M50,66 C64.3594035,66 76,54.3594035 76,40 C76,25.6405965 64.3594035,14 50,14 C35.6405965,14 24,25.6405965 24,40 C24,54.3594035 35.6405965,66 50,66 L50,66 Z M50,64 C36.745166,64 26,53.254834 26,40 C26,26.745166 36.745166,16 50,16 C63.254834,16 74,26.745166 74,40 C74,53.254834 63.254834,64 50,64 L50,64 Z M50,19 C38.4020203,19 29,28.4020203 29,40 C29,40.5522847 29.4477153,41 30,41 C30.5522847,41 31,40.5522847 31,40 C31,29.5065898 39.5065898,21 50,21 C50.5522847,21 51,20.5522847 51,20 C51,19.4477153 50.5522847,19 50,19 Z M40,66 C44.047895,66 44.999887,67.5 49.9999434,67.5 C54.9999999,67.5 56.0588238,66 59.9999993,66 C49.9999433,70 50.0233709,89.0259876 50.0233709,89.0259876 C50.0104324,89.5639198 49.9931544,89.5609559 49.975468,88.9984066 C49.975468,88.9984066 49.9999433,70 40,66 Z" id="golf-ball" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
